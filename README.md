@@ -30,5 +30,5 @@
 ---
 
 <p align="center">
-  ✨ Sempre aprendendo e evoluindo no mundo da programação ✨
+  Sempre aprendendo e evoluindo no mundo da programação
 </p>
