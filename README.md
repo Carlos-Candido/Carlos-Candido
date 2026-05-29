@@ -22,7 +22,8 @@
 
 Sou **Carlos Cândido**, Técnico em Desenvolvimento de Sistemas pela **ETEC Jales** e atualmente cursando **Análise e Desenvolvimento de Sistemas pela FATEC Jales**.
 
-Tenho interesse em desenvolvimento de sistemas, criação de APIs, aplicações web, banco de dados e soluções digitais.  
+Tenho interesse em desenvolvimento de sistemas, criação de APIs, aplicações web, banco de dados e soluções digitais.
+
 Atualmente venho evoluindo principalmente com **C#**, **.NET**, **ASP.NET Core**, **React**, **JavaScript**, **Java**, **HTML**, **CSS** e **PostgreSQL**.
 
 Gosto de transformar ideias em projetos funcionais, aprender novas tecnologias e buscar soluções bem estruturadas para problemas reais.
@@ -54,3 +55,17 @@ Gosto de transformar ideias em projetos funcionais, aprender novas tecnologias e
 ---
 
 <div align="center">
+
+## 📚 Atualmente estudando
+
+</div>
+
+```txt
+📌 ASP.NET Core
+📌 APIs REST
+📌 Entity Framework Core
+📌 React
+📌 PostgreSQL
+📌 Integração Front-End e Back-End
+📌 Modelagem de Sistemas
+📌 Boas práticas de desenvolvimento
