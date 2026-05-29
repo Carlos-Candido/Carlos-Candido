@@ -182,7 +182,7 @@ Projeto acadêmico focado na modelagem de domínio utilizando conceitos de **Dom
   <img src="https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEULINKEDIN">
+<a href="https://www.linkedin.com/in/carlos-alberto-candido?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
