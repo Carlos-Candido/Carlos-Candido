@@ -111,11 +111,16 @@ Gosto de transformar ideias em projetos funcionais, aprender novas tecnologias e
 
 ---
 
+---
+
 <div align="center">
 
-## 🏆 Troféus
+## 🏆 Troféus do GitHub
 
-<img src="https://github-profile-trophy.vercel.app/?username=Carlos-Candido&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=Carlos-Candido&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" 
+  alt="Troféus do GitHub"
+/>
 
 </div>
 
