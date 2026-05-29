@@ -113,33 +113,9 @@ Gosto de transformar ideias em projetos funcionais, aprender novas tecnologias e
 
 <div align="center">
 
-## 🏆 Troféus do GitHub
-
-[![Troféus](https://github-profile-trophy.vercel.app/?username=Carlos-Candido&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Gráfico de atividade
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos-Candido&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Snake das contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-Candido/Carlos-Candido/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-Candido/Carlos-Candido/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Carlos-Candido/Carlos-Candido/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
