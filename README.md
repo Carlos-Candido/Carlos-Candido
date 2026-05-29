@@ -69,6 +69,7 @@ Gosto de transformar ideias em projetos funcionais, aprender novas tecnologias e
 📌 Integração Front-End e Back-End
 📌 Modelagem de Sistemas
 📌 Boas práticas de desenvolvimento
+```
 
 ---
 
