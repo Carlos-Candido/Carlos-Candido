@@ -69,3 +69,77 @@ Gosto de transformar ideias em projetos funcionais, aprender novas tecnologias e
 📌 Integração Front-End e Back-End
 📌 Modelagem de Sistemas
 📌 Boas práticas de desenvolvimento
+
+---
+
+<div align="center">
+
+## 📊 Estatísticas no GitHub
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Candido&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Candido&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔢 Commits, contribuições e produtividade
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-Candido&theme=tokyonight" />
+
+<br><br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlos-Candido&theme=tokyonight" />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Carlos-Candido&theme=tokyonight&utcOffset=-3" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Sequência de contribuições
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Candido&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Troféus
+
+<img src="https://github-profile-trophy.vercel.app/?username=Carlos-Candido&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Gráfico de atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos-Candido&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Snake das contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-Candido/Carlos-Candido/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-Candido/Carlos-Candido/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Carlos-Candido/Carlos-Candido/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
